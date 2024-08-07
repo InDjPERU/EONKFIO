@@ -19,3 +19,6 @@
 [√] Frame: 19, Episode 01 https://facebook.com/122166660776123414
 [√] Frame: 20, Episode 01 https://facebook.com/122166660950123414
 [√] Frame: 21, Episode 01 https://facebook.com/122166661154123414
+[√] Frame: 22, Episode 01 https://facebook.com/122166675578123414
+[√] Frame: 23, Episode 01 https://facebook.com/122166675890123414
+[√] Frame: 24, Episode 01 https://facebook.com/122166676148123414
