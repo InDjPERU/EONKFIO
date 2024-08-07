@@ -22,3 +22,6 @@
 [√] Frame: 22, Episode 01 https://facebook.com/122166675578123414
 [√] Frame: 23, Episode 01 https://facebook.com/122166675890123414
 [√] Frame: 24, Episode 01 https://facebook.com/122166676148123414
+[√] Frame: 25, Episode 01 https://facebook.com/122166689678123414
+[√] Frame: 26, Episode 01 https://facebook.com/122166689858123414
+[√] Frame: 27, Episode 01 https://facebook.com/122166690068123414
