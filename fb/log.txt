@@ -49,3 +49,9 @@
 [√] Frame: 49, Episode 01 https://facebook.com/122166777590123414
 [√] Frame: 50, Episode 01 https://facebook.com/122166779144123414
 [√] Frame: 51, Episode 01 https://facebook.com/122166779888123414
+[√] Frame: 52, Episode 01 https://facebook.com/122166796760123414
+[√] Frame: 53, Episode 01 https://facebook.com/122166797054123414
+[√] Frame: 54, Episode 01 https://facebook.com/122166797402123414
+[√] Frame: 55, Episode 01 https://facebook.com/122166797762123414
+[√] Frame: 56, Episode 01 https://facebook.com/122166798146123414
+[√] Frame: 57, Episode 01 https://facebook.com/122166798590123414
