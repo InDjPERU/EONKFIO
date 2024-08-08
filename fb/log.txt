@@ -79,3 +79,9 @@
 [√] Frame: 79, Episode 01 https://facebook.com/122166860438123414
 [√] Frame: 80, Episode 01 https://facebook.com/122166860714123414
 [√] Frame: 81, Episode 01 https://facebook.com/122166860996123414
+[√] Frame: 82, Episode 01 https://facebook.com/122166869936123414
+[√] Frame: 83, Episode 01 https://facebook.com/122166870272123414
+[√] Frame: 84, Episode 01 https://facebook.com/122166870578123414
+[√] Frame: 85, Episode 01 https://facebook.com/122166870836123414
+[√] Frame: 86, Episode 01 https://facebook.com/122166871082123414
+[√] Frame: 87, Episode 01 https://facebook.com/122166871298123414
