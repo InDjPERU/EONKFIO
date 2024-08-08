@@ -31,3 +31,6 @@
 [√] Frame: 31, Episode 01 https://facebook.com/122166719234123414
 [√] Frame: 32, Episode 01 https://facebook.com/122166719612123414
 [√] Frame: 33, Episode 01 https://facebook.com/122166719972123414
+[√] Frame: 34, Episode 01 https://facebook.com/122166730346123414
+[√] Frame: 35, Episode 01 https://facebook.com/122166730772123414
+[√] Frame: 36, Episode 01 https://facebook.com/122166731192123414
