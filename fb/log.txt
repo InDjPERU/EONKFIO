@@ -37,3 +37,9 @@
 [√] Frame: 37, Episode 01 https://facebook.com/122166744296123414
 [√] Frame: 38, Episode 01 https://facebook.com/122166744770123414
 [√] Frame: 39, Episode 01 https://facebook.com/122166745202123414
+[√] Frame: 40, Episode 01 https://facebook.com/122166758018123414
+[√] Frame: 41, Episode 01 https://facebook.com/122166758462123414
+[√] Frame: 42, Episode 01 https://facebook.com/122166759068123414
+[√] Frame: 43, Episode 01 https://facebook.com/122166759458123414
+[√] Frame: 44, Episode 01 https://facebook.com/122166760328123414
+[√] Frame: 45, Episode 01 https://facebook.com/122166760952123414
