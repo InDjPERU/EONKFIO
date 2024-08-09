@@ -103,3 +103,9 @@
 [√] Frame: 103, Episode 01 https://facebook.com/122166906614123414
 [√] Frame: 104, Episode 01 https://facebook.com/122166907022123414
 [√] Frame: 105, Episode 01 https://facebook.com/122166907412123414
+[√] Frame: 106, Episode 01 https://facebook.com/122166919238123414
+[√] Frame: 107, Episode 01 https://facebook.com/122166919568123414
+[√] Frame: 108, Episode 01 https://facebook.com/122166919940123414
+[√] Frame: 109, Episode 01 https://facebook.com/122166920288123414
+[√] Frame: 110, Episode 01 https://facebook.com/122166920684123414
+[√] Frame: 111, Episode 01 https://facebook.com/122166921080123414
