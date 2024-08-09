@@ -139,3 +139,9 @@
 [√] Frame: 139, Episode 01 https://facebook.com/122167037390123414
 [√] Frame: 140, Episode 01 https://facebook.com/122167037792123414
 [√] Frame: 141, Episode 01 https://facebook.com/122167038476123414
+[√] Frame: 142, Episode 01 https://facebook.com/122167049822123414
+[√] Frame: 143, Episode 01 https://facebook.com/122167050410123414
+[√] Frame: 144, Episode 01 https://facebook.com/122167050692123414
+[√] Frame: 145, Episode 01 https://facebook.com/122167051016123414
+[√] Frame: 146, Episode 01 https://facebook.com/122167051370123414
+[√] Frame: 147, Episode 01 https://facebook.com/122167051622123414
