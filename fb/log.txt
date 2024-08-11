@@ -235,3 +235,9 @@
 [√] Frame: 235, Episode 01 https://facebook.com/122167286720123414
 [√] Frame: 236, Episode 01 https://facebook.com/122167287008123414
 [√] Frame: 237, Episode 01 https://facebook.com/122167287308123414
+[√] Frame: 238, Episode 01 https://facebook.com/122167301942123414
+[√] Frame: 239, Episode 01 https://facebook.com/122167302428123414
+[√] Frame: 240, Episode 01 https://facebook.com/122167302830123414
+[√] Frame: 241, Episode 01 https://facebook.com/122167303190123414
+[√] Frame: 242, Episode 01 https://facebook.com/122167303520123414
+[√] Frame: 243, Episode 01 https://facebook.com/122167303856123414
