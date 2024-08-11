@@ -289,3 +289,9 @@
 [√] Frame: 289, Episode 01 https://facebook.com/122167439126123414
 [√] Frame: 290, Episode 01 https://facebook.com/122167439378123414
 [√] Frame: 291, Episode 01 https://facebook.com/122167439660123414
+[√] Frame: 292, Episode 01 https://facebook.com/122167452182123414
+[√] Frame: 293, Episode 01 https://facebook.com/122167452428123414
+[√] Frame: 294, Episode 01 https://facebook.com/122167452716123414
+[√] Frame: 295, Episode 01 https://facebook.com/122167453016123414
+[√] Frame: 296, Episode 01 https://facebook.com/122167453436123414
+[√] Frame: 297, Episode 01 https://facebook.com/122167453760123414
