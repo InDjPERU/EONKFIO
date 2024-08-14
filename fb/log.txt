@@ -481,3 +481,9 @@
 [√] Frame: 481, Episode 01 https://facebook.com/122167968344123414
 [√] Frame: 482, Episode 01 https://facebook.com/122167968860123414
 [√] Frame: 483, Episode 01 https://facebook.com/122167969502123414
+[√] Frame: 484, Episode 01 https://facebook.com/122167986500123414
+[√] Frame: 485, Episode 01 https://facebook.com/122167987166123414
+[√] Frame: 486, Episode 01 https://facebook.com/122167987586123414
+[√] Frame: 487, Episode 01 https://facebook.com/122167988144123414
+[√] Frame: 488, Episode 01 https://facebook.com/122167988702123414
+[√] Frame: 489, Episode 01 https://facebook.com/122167989194123414
