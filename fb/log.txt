@@ -547,3 +547,9 @@
 [√] Frame: 547, Episode 01 https://facebook.com/122168173388123414
 [√] Frame: 548, Episode 01 https://facebook.com/122168173838123414
 [√] Frame: 549, Episode 01 https://facebook.com/122168174150123414
+[√] Frame: 550, Episode 01 https://facebook.com/122168189450123414
+[√] Frame: 551, Episode 01 https://facebook.com/122168189954123414
+[√] Frame: 552, Episode 01 https://facebook.com/122168190416123414
+[√] Frame: 553, Episode 01 https://facebook.com/122168190830123414
+[√] Frame: 554, Episode 01 https://facebook.com/122168191508123414
+[√] Frame: 555, Episode 01 https://facebook.com/122168191898123414
