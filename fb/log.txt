@@ -529,3 +529,9 @@
 [√] Frame: 529, Episode 01 https://facebook.com/122168114036123414
 [√] Frame: 530, Episode 01 https://facebook.com/122168114678123414
 [√] Frame: 531, Episode 01 https://facebook.com/122168115146123414
+[√] Frame: 532, Episode 01 https://facebook.com/122168140310123414
+[√] Frame: 533, Episode 01 https://facebook.com/122168140760123414
+[√] Frame: 534, Episode 01 https://facebook.com/122168141156123414
+[√] Frame: 535, Episode 01 https://facebook.com/122168141834123414
+[√] Frame: 536, Episode 01 https://facebook.com/122168142230123414
+[√] Frame: 537, Episode 01 https://facebook.com/122168142680123414
