@@ -703,3 +703,9 @@
 [√] Frame: 703, Episode 01 https://facebook.com/122168619794123414
 [√] Frame: 704, Episode 01 https://facebook.com/122168620238123414
 [√] Frame: 705, Episode 01 https://facebook.com/122168620766123414
+[√] Frame: 706, Episode 01 https://facebook.com/122168640386123414
+[√] Frame: 707, Episode 01 https://facebook.com/122168640692123414
+[√] Frame: 708, Episode 01 https://facebook.com/122168641202123414
+[√] Frame: 709, Episode 01 https://facebook.com/122168641742123414
+[√] Frame: 710, Episode 01 https://facebook.com/122168642162123414
+[√] Frame: 711, Episode 01 https://facebook.com/122168642684123414
