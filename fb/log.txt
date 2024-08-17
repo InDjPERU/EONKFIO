@@ -667,3 +667,9 @@
 [√] Frame: 667, Episode 01 https://facebook.com/122168524766123414
 [√] Frame: 668, Episode 01 https://facebook.com/122168525018123414
 [√] Frame: 669, Episode 01 https://facebook.com/122168525240123414
+[√] Frame: 670, Episode 01 https://facebook.com/122168534414123414
+[√] Frame: 671, Episode 01 https://facebook.com/122168534858123414
+[√] Frame: 672, Episode 01 https://facebook.com/122168535224123414
+[√] Frame: 673, Episode 01 https://facebook.com/122168535524123414
+[√] Frame: 674, Episode 01 https://facebook.com/122168535860123414
+[√] Frame: 675, Episode 01 https://facebook.com/122168536178123414
