@@ -775,3 +775,9 @@
 [√] Frame: 775, Episode 01 https://facebook.com/122168816930123414
 [√] Frame: 776, Episode 01 https://facebook.com/122168817398123414
 [√] Frame: 777, Episode 01 https://facebook.com/122168817896123414
+[√] Frame: 778, Episode 01 https://facebook.com/122168834882123414
+[√] Frame: 779, Episode 01 https://facebook.com/122168835248123414
+[√] Frame: 780, Episode 01 https://facebook.com/122168835644123414
+[√] Frame: 781, Episode 01 https://facebook.com/122168836820123414
+[√] Frame: 782, Episode 01 https://facebook.com/122168837558123414
+[√] Frame: 783, Episode 01 https://facebook.com/122168838080123414
