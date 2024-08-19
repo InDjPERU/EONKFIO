@@ -841,3 +841,9 @@
 [√] Frame: 841, Episode 01 https://facebook.com/122168982872123414
 [√] Frame: 842, Episode 01 https://facebook.com/122168983418123414
 [√] Frame: 843, Episode 01 https://facebook.com/122168983922123414
+[√] Frame: 844, Episode 01 https://facebook.com/122169000734123414
+[√] Frame: 845, Episode 01 https://facebook.com/122169001100123414
+[√] Frame: 846, Episode 01 https://facebook.com/122169001736123414
+[√] Frame: 847, Episode 01 https://facebook.com/122169002150123414
+[√] Frame: 848, Episode 01 https://facebook.com/122169002852123414
+[√] Frame: 849, Episode 01 https://facebook.com/122169003950123414
