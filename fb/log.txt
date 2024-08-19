@@ -829,3 +829,9 @@
 [√] Frame: 829, Episode 01 https://facebook.com/122168948480123414
 [√] Frame: 830, Episode 01 https://facebook.com/122168948768123414
 [√] Frame: 831, Episode 01 https://facebook.com/122168949206123414
+[√] Frame: 832, Episode 01 https://facebook.com/122168963246123414
+[√] Frame: 833, Episode 01 https://facebook.com/122168963672123414
+[√] Frame: 834, Episode 01 https://facebook.com/122168963954123414
+[√] Frame: 835, Episode 01 https://facebook.com/122168964302123414
+[√] Frame: 836, Episode 01 https://facebook.com/122168964626123414
+[√] Frame: 837, Episode 01 https://facebook.com/122168964962123414
