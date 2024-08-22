@@ -1039,3 +1039,9 @@
 [√] Frame: 1039, Episode 01 https://facebook.com/122169577700123414
 [√] Frame: 1040, Episode 01 https://facebook.com/122169578000123414
 [√] Frame: 1041, Episode 01 https://facebook.com/122169578426123414
+[√] Frame: 1042, Episode 01 https://facebook.com/122169605930123414
+[√] Frame: 1043, Episode 01 https://facebook.com/122169606242123414
+[√] Frame: 1044, Episode 01 https://facebook.com/122169606566123414
+[√] Frame: 1045, Episode 01 https://facebook.com/122169607196123414
+[√] Frame: 1046, Episode 01 https://facebook.com/122169607562123414
+[√] Frame: 1047, Episode 01 https://facebook.com/122169608180123414
