@@ -1249,3 +1249,9 @@
 [√] Frame: 1249, Episode 01 https://facebook.com/122170142048123414
 [√] Frame: 1250, Episode 01 https://facebook.com/122170142366123414
 [√] Frame: 1251, Episode 01 https://facebook.com/122170142720123414
+[√] Frame: 1252, Episode 01 https://facebook.com/122170155278123414
+[√] Frame: 1253, Episode 01 https://facebook.com/122170155806123414
+[√] Frame: 1254, Episode 01 https://facebook.com/122170156094123414
+[√] Frame: 1255, Episode 01 https://facebook.com/122170156490123414
+[√] Frame: 1256, Episode 01 https://facebook.com/122170156970123414
+[√] Frame: 1257, Episode 01 https://facebook.com/122170157396123414
