@@ -1417,3 +1417,9 @@
 [√] Frame: 1417, Episode 01 https://facebook.com/122170655888123414
 [√] Frame: 1418, Episode 01 https://facebook.com/122170656308123414
 [√] Frame: 1419, Episode 01 https://facebook.com/122170656764123414
+[√] Frame: 1420, Episode 01 https://facebook.com/122170672814123414
+[√] Frame: 1421, Episode 01 https://facebook.com/122170673648123414
+[√] Frame: 1422, Episode 01 https://facebook.com/122170674092123414
+[√] Frame: 1423, Episode 01 https://facebook.com/122170675580123414
+[√] Frame: 1424, Episode 01 https://facebook.com/122170676078123414
+[√] Frame: 1425, Episode 01 https://facebook.com/122170676414123414
