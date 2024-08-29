@@ -1525,3 +1525,9 @@
 [√] Frame: 1525, Episode 01 https://facebook.com/122170943714123414
 [√] Frame: 1526, Episode 01 https://facebook.com/122170943960123414
 [√] Frame: 1527, Episode 01 https://facebook.com/122170944302123414
+[√] Frame: 1528, Episode 01 https://facebook.com/122170958570123414
+[√] Frame: 1529, Episode 01 https://facebook.com/122170958756123414
+[√] Frame: 1530, Episode 01 https://facebook.com/122170959050123414
+[√] Frame: 1531, Episode 01 https://facebook.com/122170959440123414
+[√] Frame: 1532, Episode 01 https://facebook.com/122170959848123414
+[√] Frame: 1533, Episode 01 https://facebook.com/122170960346123414
