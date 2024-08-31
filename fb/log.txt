@@ -1681,3 +1681,9 @@
 [√] Frame: 1681, Episode 01 https://facebook.com/122171362436123414
 [√] Frame: 1682, Episode 01 https://facebook.com/122171362796123414
 [√] Frame: 1683, Episode 01 https://facebook.com/122171363090123414
+[√] Frame: 1684, Episode 01 https://facebook.com/122171373470123414
+[√] Frame: 1685, Episode 01 https://facebook.com/122171373800123414
+[√] Frame: 1686, Episode 01 https://facebook.com/122171374142123414
+[√] Frame: 1687, Episode 01 https://facebook.com/122171374736123414
+[√] Frame: 1688, Episode 01 https://facebook.com/122171375072123414
+[√] Frame: 1689, Episode 01 https://facebook.com/122171375480123414
