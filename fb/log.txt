@@ -1711,3 +1711,9 @@
 [√] Frame: 1711, Episode 01 https://facebook.com/122171435186123414
 [√] Frame: 1712, Episode 01 https://facebook.com/122171435546123414
 [√] Frame: 1713, Episode 01 https://facebook.com/122171435984123414
+[√] Frame: 1714, Episode 01 https://facebook.com/122171461886123414
+[√] Frame: 1715, Episode 01 https://facebook.com/122171462306123414
+[√] Frame: 1716, Episode 01 https://facebook.com/122171463218123414
+[√] Frame: 1717, Episode 01 https://facebook.com/122171463584123414
+[√] Frame: 1718, Episode 01 https://facebook.com/122171463938123414
+[√] Frame: 1719, Episode 01 https://facebook.com/122171464262123414
