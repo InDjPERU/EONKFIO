@@ -1777,3 +1777,9 @@
 [√] Frame: 1777, Episode 01 https://facebook.com/122171635478123414
 [√] Frame: 1778, Episode 01 https://facebook.com/122171636000123414
 [√] Frame: 1779, Episode 01 https://facebook.com/122171636300123414
+[√] Frame: 1780, Episode 01 https://facebook.com/122171650868123414
+[√] Frame: 1781, Episode 01 https://facebook.com/122171651282123414
+[√] Frame: 1782, Episode 01 https://facebook.com/122171651744123414
+[√] Frame: 1783, Episode 01 https://facebook.com/122171652224123414
+[√] Frame: 1784, Episode 01 https://facebook.com/122171652716123414
+[√] Frame: 1785, Episode 01 https://facebook.com/122171653334123414
