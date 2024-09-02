@@ -1825,3 +1825,9 @@
 [√] Frame: 1825, Episode 01 https://facebook.com/122171777348123414
 [√] Frame: 1826, Episode 01 https://facebook.com/122171778020123414
 [√] Frame: 1827, Episode 01 https://facebook.com/122171778548123414
+[√] Frame: 1828, Episode 01 https://facebook.com/122171794010123414
+[√] Frame: 1829, Episode 01 https://facebook.com/122171794454123414
+[√] Frame: 1830, Episode 01 https://facebook.com/122171794952123414
+[√] Frame: 1831, Episode 01 https://facebook.com/122171795318123414
+[√] Frame: 1832, Episode 01 https://facebook.com/122171795666123414
+[√] Frame: 1833, Episode 01 https://facebook.com/122171796182123414
