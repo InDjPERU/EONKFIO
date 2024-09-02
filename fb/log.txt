@@ -1837,3 +1837,9 @@
 [√] Frame: 1837, Episode 01 https://facebook.com/122171808464123414
 [√] Frame: 1838, Episode 01 https://facebook.com/122171808908123414
 [√] Frame: 1839, Episode 01 https://facebook.com/122171809280123414
+[√] Frame: 1840, Episode 01 https://facebook.com/122171825402123414
+[√] Frame: 1841, Episode 01 https://facebook.com/122171825768123414
+[√] Frame: 1842, Episode 01 https://facebook.com/122171826182123414
+[√] Frame: 1843, Episode 01 https://facebook.com/122171826608123414
+[√] Frame: 1844, Episode 01 https://facebook.com/122171826986123414
+[√] Frame: 1845, Episode 01 https://facebook.com/122171827400123414
