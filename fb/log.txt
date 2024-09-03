@@ -1879,3 +1879,9 @@
 [√] Frame: 1879, Episode 01 https://facebook.com/122171939924123414
 [√] Frame: 1880, Episode 01 https://facebook.com/122171940254123414
 [√] Frame: 1881, Episode 01 https://facebook.com/122171940536123414
+[√] Frame: 1882, Episode 01 https://facebook.com/122171953052123414
+[√] Frame: 1883, Episode 01 https://facebook.com/122171953268123414
+[√] Frame: 1884, Episode 01 https://facebook.com/122171953598123414
+[√] Frame: 1885, Episode 01 https://facebook.com/122171953928123414
+[√] Frame: 1886, Episode 01 https://facebook.com/122171954348123414
+[√] Frame: 1887, Episode 01 https://facebook.com/122171954714123414
