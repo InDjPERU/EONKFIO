@@ -1915,3 +1915,9 @@
 [√] Frame: 1915, Episode 01 https://facebook.com/122172017456123414
 [√] Frame: 1916, Episode 01 https://facebook.com/122172017954123414
 [√] Frame: 1917, Episode 01 https://facebook.com/122172018404123414
+[√] Frame: 1918, Episode 01 https://facebook.com/122172034256123414
+[√] Frame: 1919, Episode 01 https://facebook.com/122172034742123414
+[√] Frame: 1920, Episode 01 https://facebook.com/122172035276123414
+[√] Frame: 1921, Episode 01 https://facebook.com/122172035972123414
+[√] Frame: 1922, Episode 01 https://facebook.com/122172036356123414
+[√] Frame: 1923, Episode 01 https://facebook.com/122172036884123414
