@@ -1939,3 +1939,9 @@
 [√] Frame: 1939, Episode 01 https://facebook.com/122172093656123414
 [√] Frame: 1940, Episode 01 https://facebook.com/122172094022123414
 [√] Frame: 1941, Episode 01 https://facebook.com/122172094280123414
+[√] Frame: 1942, Episode 01 https://facebook.com/122172104912123414
+[√] Frame: 1943, Episode 01 https://facebook.com/122172105410123414
+[√] Frame: 1944, Episode 01 https://facebook.com/122172105734123414
+[√] Frame: 1945, Episode 01 https://facebook.com/122172106004123414
+[√] Frame: 1946, Episode 01 https://facebook.com/122172106298123414
+[√] Frame: 1947, Episode 01 https://facebook.com/122172106718123414
