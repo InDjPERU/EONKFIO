@@ -1909,3 +1909,9 @@
 [√] Frame: 1909, Episode 01 https://facebook.com/122172000080123414
 [√] Frame: 1910, Episode 01 https://facebook.com/122172000452123414
 [√] Frame: 1911, Episode 01 https://facebook.com/122172000956123414
+[√] Frame: 1912, Episode 01 https://facebook.com/122172015926123414
+[√] Frame: 1913, Episode 01 https://facebook.com/122172016334123414
+[√] Frame: 1914, Episode 01 https://facebook.com/122172016910123414
+[√] Frame: 1915, Episode 01 https://facebook.com/122172017456123414
+[√] Frame: 1916, Episode 01 https://facebook.com/122172017954123414
+[√] Frame: 1917, Episode 01 https://facebook.com/122172018404123414
