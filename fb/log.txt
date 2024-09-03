@@ -1933,3 +1933,9 @@
 [√] Frame: 1933, Episode 01 https://facebook.com/122172069362123414
 [√] Frame: 1934, Episode 01 https://facebook.com/122172069692123414
 [√] Frame: 1935, Episode 01 https://facebook.com/122172070484123414
+[√] Frame: 1936, Episode 01 https://facebook.com/122172092738123414
+[√] Frame: 1937, Episode 01 https://facebook.com/122172093098123414
+[√] Frame: 1938, Episode 01 https://facebook.com/122172093404123414
+[√] Frame: 1939, Episode 01 https://facebook.com/122172093656123414
+[√] Frame: 1940, Episode 01 https://facebook.com/122172094022123414
+[√] Frame: 1941, Episode 01 https://facebook.com/122172094280123414
