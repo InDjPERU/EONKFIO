@@ -1981,3 +1981,9 @@
 [√] Frame: 1981, Episode 01 https://facebook.com/122172201224123414
 [√] Frame: 1982, Episode 01 https://facebook.com/122172201602123414
 [√] Frame: 1983, Episode 01 https://facebook.com/122172202226123414
+[√] Frame: 1984, Episode 01 https://facebook.com/122172224264123414
+[√] Frame: 1985, Episode 01 https://facebook.com/122172224600123414
+[√] Frame: 1986, Episode 01 https://facebook.com/122172224948123414
+[√] Frame: 1987, Episode 01 https://facebook.com/122172225344123414
+[√] Frame: 1988, Episode 01 https://facebook.com/122172225788123414
+[√] Frame: 1989, Episode 01 https://facebook.com/122172226244123414
