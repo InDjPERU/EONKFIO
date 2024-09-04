@@ -1987,3 +1987,9 @@
 [√] Frame: 1987, Episode 01 https://facebook.com/122172225344123414
 [√] Frame: 1988, Episode 01 https://facebook.com/122172225788123414
 [√] Frame: 1989, Episode 01 https://facebook.com/122172226244123414
+[√] Frame: 1990, Episode 01 https://facebook.com/122172242024123414
+[√] Frame: 1991, Episode 01 https://facebook.com/122172242384123414
+[√] Frame: 1992, Episode 01 https://facebook.com/122172242732123414
+[√] Frame: 1993, Episode 01 https://facebook.com/122172243164123414
+[√] Frame: 1994, Episode 01 https://facebook.com/122172243488123414
+[√] Frame: 1995, Episode 01 https://facebook.com/122172243830123414
