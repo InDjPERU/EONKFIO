@@ -1963,3 +1963,9 @@
 [√] Frame: 1963, Episode 01 https://facebook.com/122172146006123414
 [√] Frame: 1964, Episode 01 https://facebook.com/122172146252123414
 [√] Frame: 1965, Episode 01 https://facebook.com/122172146588123414
+[√] Frame: 1966, Episode 01 https://facebook.com/122172154694123414
+[√] Frame: 1967, Episode 01 https://facebook.com/122172155168123414
+[√] Frame: 1968, Episode 01 https://facebook.com/122172155558123414
+[√] Frame: 1969, Episode 01 https://facebook.com/122172155888123414
+[√] Frame: 1970, Episode 01 https://facebook.com/122172156236123414
+[√] Frame: 1971, Episode 01 https://facebook.com/122172156674123414
