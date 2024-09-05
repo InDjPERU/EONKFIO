@@ -2065,3 +2065,9 @@
 [√] Frame: 2065, Episode 01 https://facebook.com/122172425612123414
 [√] Frame: 2066, Episode 01 https://facebook.com/122172426050123414
 [√] Frame: 2067, Episode 01 https://facebook.com/122172426650123414
+[√] Frame: 2068, Episode 01 https://facebook.com/122172447500123414
+[√] Frame: 2069, Episode 01 https://facebook.com/122172447920123414
+[√] Frame: 2070, Episode 01 https://facebook.com/122172448442123414
+[√] Frame: 2071, Episode 01 https://facebook.com/122172448946123414
+[√] Frame: 2072, Episode 01 https://facebook.com/122172449468123414
+[√] Frame: 2073, Episode 01 https://facebook.com/122172449864123414
