@@ -2269,3 +2269,9 @@
 [√] Frame: 2269, Episode 01 https://facebook.com/122172940760123414
 [√] Frame: 2270, Episode 01 https://facebook.com/122172941084123414
 [√] Frame: 2271, Episode 01 https://facebook.com/122172941588123414
+[√] Frame: 2272, Episode 01 https://facebook.com/122172954206123414
+[√] Frame: 2273, Episode 01 https://facebook.com/122172954614123414
+[√] Frame: 2274, Episode 01 https://facebook.com/122172954866123414
+[√] Frame: 2275, Episode 01 https://facebook.com/122172955160123414
+[√] Frame: 2276, Episode 01 https://facebook.com/122172962456123414
+[√] Frame: 2277, Episode 01 https://facebook.com/122172962798123414
