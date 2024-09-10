@@ -2425,3 +2425,9 @@
 [√] Frame: 2425, Episode 01 https://facebook.com/122173369628123414
 [√] Frame: 2426, Episode 01 https://facebook.com/122173370084123414
 [√] Frame: 2427, Episode 01 https://facebook.com/122173370648123414
+[√] Frame: 2428, Episode 01 https://facebook.com/122173395800123414
+[√] Frame: 2429, Episode 01 https://facebook.com/122173396298123414
+[√] Frame: 2430, Episode 01 https://facebook.com/122173396754123414
+[√] Frame: 2431, Episode 01 https://facebook.com/122173397234123414
+[√] Frame: 2432, Episode 01 https://facebook.com/122173397876123414
+[√] Frame: 2433, Episode 01 https://facebook.com/122173398422123414
