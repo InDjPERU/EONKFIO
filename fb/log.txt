@@ -2491,3 +2491,9 @@
 [√] Frame: 2491, Episode 01 https://facebook.com/122173524800123414
 [√] Frame: 2492, Episode 01 https://facebook.com/122173525172123414
 [√] Frame: 2493, Episode 01 https://facebook.com/122173525502123414
+[√] Frame: 2494, Episode 01 https://facebook.com/122173544000123414
+[√] Frame: 2495, Episode 01 https://facebook.com/122173544462123414
+[√] Frame: 2496, Episode 01 https://facebook.com/122173544918123414
+[√] Frame: 2497, Episode 01 https://facebook.com/122173545416123414
+[√] Frame: 2498, Episode 01 https://facebook.com/122173545950123414
+[√] Frame: 2499, Episode 01 https://facebook.com/122173546292123414
