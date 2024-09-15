@@ -2779,3 +2779,9 @@
 [√] Frame: 2779, Episode 01 https://facebook.com/122174421338123414
 [√] Frame: 2780, Episode 01 https://facebook.com/122174421734123414
 [√] Frame: 2781, Episode 01 https://facebook.com/122174422136123414
+[√] Frame: 2782, Episode 01 https://facebook.com/122174434064123414
+[√] Frame: 2783, Episode 01 https://facebook.com/122174434436123414
+[√] Frame: 2784, Episode 01 https://facebook.com/122174434826123414
+[√] Frame: 2785, Episode 01 https://facebook.com/122174435282123414
+[√] Frame: 2786, Episode 01 https://facebook.com/122174435726123414
+[√] Frame: 2787, Episode 01 https://facebook.com/122174436200123414
