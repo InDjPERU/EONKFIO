@@ -2839,3 +2839,9 @@
 [√] Frame: 2839, Episode 01 https://facebook.com/122174577584123414
 [√] Frame: 2840, Episode 01 https://facebook.com/122174578052123414
 [√] Frame: 2841, Episode 01 https://facebook.com/122174578532123414
+[√] Frame: 2842, Episode 01 https://facebook.com/122174589848123414
+[√] Frame: 2843, Episode 01 https://facebook.com/122174590178123414
+[√] Frame: 2844, Episode 01 https://facebook.com/122174590448123414
+[√] Frame: 2845, Episode 01 https://facebook.com/122174591096123414
+[√] Frame: 2846, Episode 01 https://facebook.com/122174591432123414
+[√] Frame: 2847, Episode 01 https://facebook.com/122174591816123414
