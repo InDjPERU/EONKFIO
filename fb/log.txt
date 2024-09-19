@@ -3067,3 +3067,9 @@
 [√] Frame: 3067, Episode 01 https://facebook.com/122175218198123414
 [√] Frame: 3068, Episode 01 https://facebook.com/122175218588123414
 [√] Frame: 3069, Episode 01 https://facebook.com/122175218942123414
+[√] Frame: 3070, Episode 01 https://facebook.com/122175233390123414
+[√] Frame: 3071, Episode 01 https://facebook.com/122175233774123414
+[√] Frame: 3072, Episode 01 https://facebook.com/122175234170123414
+[√] Frame: 3073, Episode 01 https://facebook.com/122175234542123414
+[√] Frame: 3074, Episode 01 https://facebook.com/122175235016123414
+[√] Frame: 3075, Episode 01 https://facebook.com/122175235340123414
