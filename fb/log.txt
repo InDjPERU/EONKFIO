@@ -3079,3 +3079,9 @@
 [√] Frame: 3079, Episode 01 https://facebook.com/122175250382123414
 [√] Frame: 3080, Episode 01 https://facebook.com/122175250748123414
 [√] Frame: 3081, Episode 01 https://facebook.com/122175251132123414
+[√] Frame: 3082, Episode 01 https://facebook.com/122175264494123414
+[√] Frame: 3083, Episode 01 https://facebook.com/122175265196123414
+[√] Frame: 3084, Episode 01 https://facebook.com/122175265910123414
+[√] Frame: 3085, Episode 01 https://facebook.com/122175266336123414
+[√] Frame: 3086, Episode 01 https://facebook.com/122175266714123414
+[√] Frame: 3087, Episode 01 https://facebook.com/122175267218123414
