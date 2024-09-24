@@ -3421,3 +3421,9 @@
 [√] Frame: 3421, Episode 01 https://facebook.com/122176096562123414
 [√] Frame: 3422, Episode 01 https://facebook.com/122176096922123414
 [√] Frame: 3423, Episode 01 https://facebook.com/122176097276123414
+[√] Frame: 3424, Episode 01 https://facebook.com/122176108070123414
+[√] Frame: 3425, Episode 01 https://facebook.com/122176108514123414
+[√] Frame: 3426, Episode 01 https://facebook.com/122176108904123414
+[√] Frame: 3427, Episode 01 https://facebook.com/122176109210123414
+[√] Frame: 3428, Episode 01 https://facebook.com/122176109606123414
+[√] Frame: 3429, Episode 01 https://facebook.com/122176109936123414
