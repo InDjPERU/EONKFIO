@@ -3493,3 +3493,9 @@
 [√] Frame: 3493, Episode 01 https://facebook.com/122176278800123414
 [√] Frame: 3494, Episode 01 https://facebook.com/122176279196123414
 [√] Frame: 3495, Episode 01 https://facebook.com/122176279544123414
+[√] Frame: 3496, Episode 01 https://facebook.com/122176290962123414
+[√] Frame: 3497, Episode 01 https://facebook.com/122176291280123414
+[√] Frame: 3498, Episode 01 https://facebook.com/122176291664123414
+[√] Frame: 3499, Episode 01 https://facebook.com/122176292012123414
+[√] Frame: 3500, Episode 01 https://facebook.com/122176292954123414
+[√] Frame: 3501, Episode 01 https://facebook.com/122176293374123414
