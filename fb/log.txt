@@ -3715,3 +3715,9 @@
 [√] Frame: 3715, Episode 01 https://facebook.com/122176883678123414
 [√] Frame: 3716, Episode 01 https://facebook.com/122176883966123414
 [√] Frame: 3717, Episode 01 https://facebook.com/122176884290123414
+[√] Frame: 3718, Episode 01 https://facebook.com/122176897124123414
+[√] Frame: 3719, Episode 01 https://facebook.com/122176897400123414
+[√] Frame: 3720, Episode 01 https://facebook.com/122176897772123414
+[√] Frame: 3721, Episode 01 https://facebook.com/122176898156123414
+[√] Frame: 3722, Episode 01 https://facebook.com/122176898486123414
+[√] Frame: 3723, Episode 01 https://facebook.com/122176898798123414
