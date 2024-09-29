@@ -3811,3 +3811,9 @@
 [√] Frame: 3811, Episode 01 https://facebook.com/122177169758123414
 [√] Frame: 3812, Episode 01 https://facebook.com/122177170118123414
 [√] Frame: 3813, Episode 01 https://facebook.com/122177170688123414
+[√] Frame: 3814, Episode 01 https://facebook.com/122177179382123414
+[√] Frame: 3815, Episode 01 https://facebook.com/122177179784123414
+[√] Frame: 3816, Episode 01 https://facebook.com/122177180078123414
+[√] Frame: 3817, Episode 01 https://facebook.com/122177180360123414
+[√] Frame: 3818, Episode 01 https://facebook.com/122177180678123414
+[√] Frame: 3819, Episode 01 https://facebook.com/122177180984123414
