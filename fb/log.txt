@@ -3829,3 +3829,9 @@
 [√] Frame: 3829, Episode 01 https://facebook.com/122177218472123414
 [√] Frame: 3830, Episode 01 https://facebook.com/122177218826123414
 [√] Frame: 3831, Episode 01 https://facebook.com/122177219402123414
+[√] Frame: 3832, Episode 01 https://facebook.com/122177233832123414
+[√] Frame: 3833, Episode 01 https://facebook.com/122177234312123414
+[√] Frame: 3834, Episode 01 https://facebook.com/122177234588123414
+[√] Frame: 3835, Episode 01 https://facebook.com/122177234888123414
+[√] Frame: 3836, Episode 01 https://facebook.com/122177235182123414
+[√] Frame: 3837, Episode 01 https://facebook.com/122177235476123414
