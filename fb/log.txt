@@ -3937,3 +3937,9 @@
 [√] Frame: 3937, Episode 01 https://facebook.com/122177534342123414
 [√] Frame: 3938, Episode 01 https://facebook.com/122177534708123414
 [√] Frame: 3939, Episode 01 https://facebook.com/122177535122123414
+[√] Frame: 3940, Episode 01 https://facebook.com/122177556884123414
+[√] Frame: 3941, Episode 01 https://facebook.com/122177557250123414
+[√] Frame: 3942, Episode 01 https://facebook.com/122177557574123414
+[√] Frame: 3943, Episode 01 https://facebook.com/122177558054123414
+[√] Frame: 3944, Episode 01 https://facebook.com/122177558336123414
+[√] Frame: 3945, Episode 01 https://facebook.com/122177558612123414
