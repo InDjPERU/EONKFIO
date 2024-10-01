@@ -3919,3 +3919,9 @@
 [√] Frame: 3919, Episode 01 https://facebook.com/122177492252123414
 [√] Frame: 3920, Episode 01 https://facebook.com/122177492606123414
 [√] Frame: 3921, Episode 01 https://facebook.com/122177492984123414
+[√] Frame: 3922, Episode 01 https://facebook.com/122177502968123414
+[√] Frame: 3923, Episode 01 https://facebook.com/122177503388123414
+[√] Frame: 3924, Episode 01 https://facebook.com/122177504618123414
+[√] Frame: 3925, Episode 01 https://facebook.com/122177505068123414
+[√] Frame: 3926, Episode 01 https://facebook.com/122177505380123414
+[√] Frame: 3927, Episode 01 https://facebook.com/122177505830123414
