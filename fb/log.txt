@@ -3973,3 +3973,9 @@
 [√] Frame: 3973, Episode 01 https://facebook.com/122177627342123414
 [√] Frame: 3974, Episode 01 https://facebook.com/122177627810123414
 [√] Frame: 3975, Episode 01 https://facebook.com/122177628272123414
+[√] Frame: 3976, Episode 01 https://facebook.com/122177639474123414
+[√] Frame: 3977, Episode 01 https://facebook.com/122177640062123414
+[√] Frame: 3978, Episode 01 https://facebook.com/122177640752123414
+[√] Frame: 3979, Episode 01 https://facebook.com/122177642306123414
+[√] Frame: 3980, Episode 01 https://facebook.com/122177643014123414
+[√] Frame: 3981, Episode 01 https://facebook.com/122177643362123414
