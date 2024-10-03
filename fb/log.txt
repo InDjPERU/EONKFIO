@@ -4069,3 +4069,9 @@
 [√] Frame: 4069, Episode 01 https://facebook.com/122177875046123414
 [√] Frame: 4070, Episode 01 https://facebook.com/122177875454123414
 [√] Frame: 4071, Episode 01 https://facebook.com/122177875952123414
+[√] Frame: 4072, Episode 01 https://facebook.com/122177884766123414
+[√] Frame: 4073, Episode 01 https://facebook.com/122177885150123414
+[√] Frame: 4074, Episode 01 https://facebook.com/122177885474123414
+[√] Frame: 4075, Episode 01 https://facebook.com/122177885756123414
+[√] Frame: 4076, Episode 01 https://facebook.com/122177886050123414
+[√] Frame: 4077, Episode 01 https://facebook.com/122177886368123414
