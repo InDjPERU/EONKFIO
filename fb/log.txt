@@ -4285,3 +4285,9 @@
 [√] Frame: 4285, Episode 01 https://facebook.com/
 [√] Frame: 4286, Episode 01 https://facebook.com/
 [√] Frame: 4287, Episode 01 https://facebook.com/
+[√] Frame: 4288, Episode 01 https://facebook.com/
+[√] Frame: 4289, Episode 01 https://facebook.com/
+[√] Frame: 4290, Episode 01 https://facebook.com/
+[√] Frame: 4291, Episode 01 https://facebook.com/
+[√] Frame: 4292, Episode 01 https://facebook.com/
+[√] Frame: 4293, Episode 01 https://facebook.com/
