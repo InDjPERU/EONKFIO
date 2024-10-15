@@ -4939,3 +4939,9 @@
 [√] Frame: 4939, Episode 01 https://facebook.com/
 [√] Frame: 4940, Episode 01 https://facebook.com/
 [√] Frame: 4941, Episode 01 https://facebook.com/
+[√] Frame: 4942, Episode 01 https://facebook.com/
+[√] Frame: 4943, Episode 01 https://facebook.com/
+[√] Frame: 4944, Episode 01 https://facebook.com/
+[√] Frame: 4945, Episode 01 https://facebook.com/
+[√] Frame: 4946, Episode 01 https://facebook.com/
+[√] Frame: 4947, Episode 01 https://facebook.com/
