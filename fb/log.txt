@@ -6961,3 +6961,9 @@
 [√] Frame: 6961, Episode 01 https://facebook.com/
 [√] Frame: 6962, Episode 01 https://facebook.com/
 [√] Frame: 6963, Episode 01 https://facebook.com/
+[√] Frame: 6964, Episode 01 https://facebook.com/
+[√] Frame: 6965, Episode 01 https://facebook.com/
+[√] Frame: 6966, Episode 01 https://facebook.com/
+[√] Frame: 6967, Episode 01 https://facebook.com/
+[√] Frame: 6968, Episode 01 https://facebook.com/
+[√] Frame: 6969, Episode 01 https://facebook.com/
