@@ -6919,3 +6919,9 @@
 [√] Frame: 6919, Episode 01 https://facebook.com/
 [√] Frame: 6920, Episode 01 https://facebook.com/
 [√] Frame: 6921, Episode 01 https://facebook.com/
+[√] Frame: 6922, Episode 01 https://facebook.com/
+[√] Frame: 6923, Episode 01 https://facebook.com/
+[√] Frame: 6924, Episode 01 https://facebook.com/
+[√] Frame: 6925, Episode 01 https://facebook.com/
+[√] Frame: 6926, Episode 01 https://facebook.com/
+[√] Frame: 6927, Episode 01 https://facebook.com/
