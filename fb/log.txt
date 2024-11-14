@@ -7069,3 +7069,9 @@
 [√] Frame: 7069, Episode 01 https://facebook.com/
 [√] Frame: 7070, Episode 01 https://facebook.com/
 [√] Frame: 7071, Episode 01 https://facebook.com/
+[√] Frame: 7072, Episode 01 https://facebook.com/
+[√] Frame: 7073, Episode 01 https://facebook.com/
+[√] Frame: 7074, Episode 01 https://facebook.com/
+[√] Frame: 7075, Episode 01 https://facebook.com/
+[√] Frame: 7076, Episode 01 https://facebook.com/
+[√] Frame: 7077, Episode 01 https://facebook.com/
