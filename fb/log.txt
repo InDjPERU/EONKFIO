@@ -7279,3 +7279,9 @@
 [√] Frame: 7279, Episode 01 https://facebook.com/
 [√] Frame: 7280, Episode 01 https://facebook.com/
 [√] Frame: 7281, Episode 01 https://facebook.com/
+[√] Frame: 7282, Episode 01 https://facebook.com/
+[√] Frame: 7283, Episode 01 https://facebook.com/
+[√] Frame: 7284, Episode 01 https://facebook.com/
+[√] Frame: 7285, Episode 01 https://facebook.com/
+[√] Frame: 7286, Episode 01 https://facebook.com/
+[√] Frame: 7287, Episode 01 https://facebook.com/
