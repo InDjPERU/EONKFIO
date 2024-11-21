@@ -7615,3 +7615,9 @@
 [√] Frame: 7615, Episode 01 https://facebook.com/
 [√] Frame: 7616, Episode 01 https://facebook.com/
 [√] Frame: 7617, Episode 01 https://facebook.com/
+[√] Frame: 7618, Episode 01 https://facebook.com/
+[√] Frame: 7619, Episode 01 https://facebook.com/
+[√] Frame: 7620, Episode 01 https://facebook.com/
+[√] Frame: 7621, Episode 01 https://facebook.com/
+[√] Frame: 7622, Episode 01 https://facebook.com/
+[√] Frame: 7623, Episode 01 https://facebook.com/
