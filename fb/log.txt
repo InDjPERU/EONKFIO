@@ -7711,3 +7711,9 @@
 [√] Frame: 7711, Episode 01 https://facebook.com/
 [√] Frame: 7712, Episode 01 https://facebook.com/
 [√] Frame: 7713, Episode 01 https://facebook.com/
+[√] Frame: 7714, Episode 01 https://facebook.com/
+[√] Frame: 7715, Episode 01 https://facebook.com/
+[√] Frame: 7716, Episode 01 https://facebook.com/
+[√] Frame: 7717, Episode 01 https://facebook.com/
+[√] Frame: 7718, Episode 01 https://facebook.com/
+[√] Frame: 7719, Episode 01 https://facebook.com/
