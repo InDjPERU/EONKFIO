@@ -8005,3 +8005,9 @@
 [√] Frame: 8005, Episode 01 https://facebook.com/
 [√] Frame: 8006, Episode 01 https://facebook.com/
 [√] Frame: 8007, Episode 01 https://facebook.com/
+[√] Frame: 8008, Episode 01 https://facebook.com/
+[√] Frame: 8009, Episode 01 https://facebook.com/
+[√] Frame: 8010, Episode 01 https://facebook.com/
+[√] Frame: 8011, Episode 01 https://facebook.com/
+[√] Frame: 8012, Episode 01 https://facebook.com/
+[√] Frame: 8013, Episode 01 https://facebook.com/
