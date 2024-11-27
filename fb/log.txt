@@ -8035,3 +8035,9 @@
 [√] Frame: 8035, Episode 01 https://facebook.com/
 [√] Frame: 8036, Episode 01 https://facebook.com/
 [√] Frame: 8037, Episode 01 https://facebook.com/
+[√] Frame: 8038, Episode 01 https://facebook.com/
+[√] Frame: 8039, Episode 01 https://facebook.com/
+[√] Frame: 8040, Episode 01 https://facebook.com/
+[√] Frame: 8041, Episode 01 https://facebook.com/
+[√] Frame: 8042, Episode 01 https://facebook.com/
+[√] Frame: 8043, Episode 01 https://facebook.com/
