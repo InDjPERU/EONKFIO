@@ -8137,3 +8137,9 @@
 [√] Frame: 8137, Episode 01 https://facebook.com/
 [√] Frame: 8138, Episode 01 https://facebook.com/
 [√] Frame: 8139, Episode 01 https://facebook.com/
+[√] Frame: 8140, Episode 01 https://facebook.com/
+[√] Frame: 8141, Episode 01 https://facebook.com/
+[√] Frame: 8142, Episode 01 https://facebook.com/
+[√] Frame: 8143, Episode 01 https://facebook.com/
+[√] Frame: 8144, Episode 01 https://facebook.com/
+[√] Frame: 8145, Episode 01 https://facebook.com/
