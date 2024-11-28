@@ -8077,3 +8077,9 @@
 [√] Frame: 8077, Episode 01 https://facebook.com/
 [√] Frame: 8078, Episode 01 https://facebook.com/
 [√] Frame: 8079, Episode 01 https://facebook.com/
+[√] Frame: 8080, Episode 01 https://facebook.com/
+[√] Frame: 8081, Episode 01 https://facebook.com/
+[√] Frame: 8082, Episode 01 https://facebook.com/
+[√] Frame: 8083, Episode 01 https://facebook.com/
+[√] Frame: 8084, Episode 01 https://facebook.com/
+[√] Frame: 8085, Episode 01 https://facebook.com/
