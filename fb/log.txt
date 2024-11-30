@@ -8269,3 +8269,9 @@
 [√] Frame: 8269, Episode 01 https://facebook.com/
 [√] Frame: 8270, Episode 01 https://facebook.com/
 [√] Frame: 8271, Episode 01 https://facebook.com/
+[√] Frame: 8272, Episode 01 https://facebook.com/
+[√] Frame: 8273, Episode 01 https://facebook.com/
+[√] Frame: 8274, Episode 01 https://facebook.com/
+[√] Frame: 8275, Episode 01 https://facebook.com/
+[√] Frame: 8276, Episode 01 https://facebook.com/
+[√] Frame: 8277, Episode 01 https://facebook.com/
