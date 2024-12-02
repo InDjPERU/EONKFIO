@@ -8419,3 +8419,9 @@
 [√] Frame: 8419, Episode 01 https://facebook.com/
 [√] Frame: 8420, Episode 01 https://facebook.com/
 [√] Frame: 8421, Episode 01 https://facebook.com/
+[√] Frame: 8422, Episode 01 https://facebook.com/
+[√] Frame: 8423, Episode 01 https://facebook.com/
+[√] Frame: 8424, Episode 01 https://facebook.com/
+[√] Frame: 8425, Episode 01 https://facebook.com/
+[√] Frame: 8426, Episode 01 https://facebook.com/
+[√] Frame: 8427, Episode 01 https://facebook.com/
