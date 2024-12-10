@@ -8935,3 +8935,9 @@
 [√] Frame: 8935, Episode 01 https://facebook.com/
 [√] Frame: 8936, Episode 01 https://facebook.com/
 [√] Frame: 8937, Episode 01 https://facebook.com/
+[√] Frame: 8938, Episode 01 https://facebook.com/
+[√] Frame: 8939, Episode 01 https://facebook.com/
+[√] Frame: 8940, Episode 01 https://facebook.com/
+[√] Frame: 8941, Episode 01 https://facebook.com/
+[√] Frame: 8942, Episode 01 https://facebook.com/
+[√] Frame: 8943, Episode 01 https://facebook.com/
