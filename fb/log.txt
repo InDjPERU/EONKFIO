@@ -9481,3 +9481,9 @@
 [√] Frame: 9481, Episode 01 https://facebook.com/
 [√] Frame: 9482, Episode 01 https://facebook.com/
 [√] Frame: 9483, Episode 01 https://facebook.com/
+[√] Frame: 9484, Episode 01 https://facebook.com/
+[√] Frame: 9485, Episode 01 https://facebook.com/
+[√] Frame: 9486, Episode 01 https://facebook.com/
+[√] Frame: 9487, Episode 01 https://facebook.com/
+[√] Frame: 9488, Episode 01 https://facebook.com/
+[√] Frame: 9489, Episode 01 https://facebook.com/
